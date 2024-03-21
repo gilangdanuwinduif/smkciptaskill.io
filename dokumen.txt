@@ -1,0 +1,29 @@
+byet.com
+Control panel username:	b6_36149396
+Control panel password:	**********
+Control panel URL:	cpanel.byethost6.com
+MySQL username	b6_36149396
+MySQL password:	**********
+MySQL hostname:	sql108.byethost6.com
+FTP username:	b6_36149396
+FTP password:	**********
+FTP host name:	ftp.byethost6.com
+Your Website URL:	http://gilanggildanz.byethost6.com
+
+
+Cpanel Username: b6_36149396
+Cpanel Password: 120602Gildanz
+Your URL: http://gilanggildanz.byethost6.com or http://www.gilanggildanz.byethost6.com
+FTP Server : ftpupload.net
+FTP Login : b6_36149396
+FTP Password : 120602Gildanz
+MySQL Database Name: MUST CREATE IN CPANEL
+MySQL Username : b6_36149396
+MySQL Password : 120602Gildanz
+MySQL Server: SEE THE CPANEL
+
+
+Cpanel URL: http://cpanel.byethost6.com/
+
+
+infintyfree
